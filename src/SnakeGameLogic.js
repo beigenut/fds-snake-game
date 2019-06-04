@@ -1,7 +1,8 @@
 import {ROWS, COLS} from './config';
 
-/* ---------- 질문있습니다 ------------------
-if this.joints > 5 이상일 때 bomb 가 생성되거나, 혹은 bomb2 가 생성될 수 는 없나요? .length 가 길어짐에 따라 게임 난이도를 bomb 증가로 올리고 싶은데, 이게 안 되면 시간(delay) 잡으신 걸로 게임 빨라지면서 bomb 생성은 안 되나요 
+/* ---------- Questions ------------------
+if this.joints > 5 이상일 때 bomb 가 생성되거나, 혹은 bomb2 가 생성될 수 는 없나요? 
+.length 가 길어짐에 따라 게임 난이도를 bomb 증가로 올리고 싶습니다
 ------------------------------------------- */
 
 function SnakeGameLogic() {
